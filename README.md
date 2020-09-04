@@ -1,5 +1,7 @@
 # Bay of Bengal and East Arabian Sea (BoBEAS) NEMO regional model
 
+[![DOI](https://zenodo.org/badge/168546258.svg)](https://zenodo.org/badge/latestdoi/168546258)
+
 ![Bathymetry for BoBEAS domain](https://github.com/NOC-MSM/BoBEAS/wiki/FIGURES/BoBEAS_bathymetry.jpg)
 
 Getting started
